@@ -1,0 +1,2 @@
+# confirmspam
+confirms spam
